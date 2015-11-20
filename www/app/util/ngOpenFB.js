@@ -42,7 +42,7 @@
       #
        * Take a look at the example oauthcallback.html in this directory.
        */
-      browserOauthCallback = baseURL + '/oauthcallback.html';
+      browserOauthCallback = baseURL + '/app/oauthcallback.html';
       cordovaOauthCallback = 'https://www.facebook.com/connect/login_success.html';
       runningInCordova = false;
       fbAppId = void 0;

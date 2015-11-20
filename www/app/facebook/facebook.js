@@ -41,9 +41,5 @@ angular.module('app.facebook', ['ngOpenFB'])
       $location.path('/facebook');
     });
   });
-
-
-
-
 }
 ]);

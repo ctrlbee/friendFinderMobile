@@ -1,1 +1,10 @@
 /* Empty. Add your own CSS if you like */
+.mapMaker {
+  margin: 20px;
+  padding: 20px;
+}
+.content {
+  margin-top: 50px;
+  color: grey;
+  background: white;
+}
